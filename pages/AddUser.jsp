@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Add New User Form</title>
+<title>Add New User Formw</title>
 </head>
 <body>
 <f:view>

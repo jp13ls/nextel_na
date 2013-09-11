@@ -13,6 +13,7 @@
 <h3><h:outputText value="#{bundle['welcome.heading']}" /></h3>
 
 <p><h:outputText value="#{bundle['welcome.message']}" /></p>
+<p></p>
   
 </body>
 </html>
