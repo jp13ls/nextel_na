@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Add New User Formwpeterpeter</title>
+<title>Add New User Formwpeter</title>
 </head>
 <body>
 <f:view>
