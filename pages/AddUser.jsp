@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Add New User Formwpeter</title>
+<title>Add New User peter</title>
 </head>
 <body>
 <f:view>
